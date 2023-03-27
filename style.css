@@ -59,6 +59,11 @@ a {
     border: 1px solid #ccc;
 }
 
+.chungnhandatchuan {
+    display: flex;
+    justify-content: center;
+}
+
 .lienhe {
     display: flex;
     gap: 100px;
